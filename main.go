@@ -1,5 +1,7 @@
 package main
 
+import "acme"
+
 func main() {
-	howStructsWorks()
+	acme.howStructsWorks()
 }
