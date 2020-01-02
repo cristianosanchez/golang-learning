@@ -73,7 +73,8 @@ func p(s string) {
 	fmt.Println("\t", s)
 }
 
-func howStructsWorks() {
+// HowStructsWorks will play around declared structs
+func HowStructsWorks() {
 	fmt.Println("calling methods from value")
 	h := Hello{"Cristiano"}
 	p(h.sayHelloValueReceiver())
