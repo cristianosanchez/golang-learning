@@ -18,19 +18,19 @@ You don't need to be at directory to run commands, so, from anywhere, this would
 
 Type `go help` for a list of commands, mainly:
 
-. build
-. clean
-. doc
-. env
-. bug
-. fix
-. fmt
-. generate
-. get
-. install
-. list
-. run
-. test
-. tool
-. version
-. vet
+- build
+- clean
+- doc
+- env
+- bug
+- fix
+- fmt
+- generate
+- get
+- install
+- list
+- run
+- test
+- tool
+- version
+- vet
