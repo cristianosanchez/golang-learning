@@ -1,6 +1,6 @@
 package main
 
-import "acme"
+import "github.com/cristianosanchez/golang-learning/acme"
 
 func main() {
 	acme.howStructsWorks()
